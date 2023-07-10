@@ -1,4 +1,5 @@
 let input
 
 const displayEl = document.querySelector('#display')
-const 
+const minusEl = document.querySelector('#Left')
+const plusEl = document.querySelector('#Right')
